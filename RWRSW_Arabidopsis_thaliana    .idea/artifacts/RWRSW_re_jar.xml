@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RWRSW_re:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RWRSW_re_jar</output-path>
+    <root id="archive" name="RWRSW_re.jar">
+      <element id="module-output" name="RWRSW_re" />
+    </root>
+  </artifact>
+</component>
